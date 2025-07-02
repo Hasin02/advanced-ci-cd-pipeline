@@ -129,14 +129,11 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 ## 👨‍💻 Author & Community
 
-This project is maintained by **[Harshhaa](https://github.com/Hasin02)** 🚀
+This project is maintained by **[Hasin](https://github.com/Hasin02)** 🚀
 
 ### 💬 Connect with Me:
 
 - 🐙 **GitHub**: [@Hasin02](https://github.com/Hasin02)  
-- 📝 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- 💬 **Telegram**: [Join Community](https://t.me/prodevopsguy)  
-- 👔 **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
 
 ---
 
