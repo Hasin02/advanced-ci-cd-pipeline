@@ -14,7 +14,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔧 Step 1: Infrastructure Provisioning (Terraform)</strong></summary>
 
 - Provisioned **VPC**, **Security Groups**, **Ansible Controller**, **Jenkins Master**, and **Agent Instances** using Terraform.  
-🔗 [Step Details](https://github.com/Hasin02/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step1.md#L1)
+🔗 [Step Details](https://github.com/Hasin02/advanced-ci-cd-pipeline/blob/master/DevOps-Project-06/Steps/step1.md#L1)
 
 </details>
 
@@ -22,7 +22,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔐 Step 2: SSH Configuration</strong></summary>
 
 - Set up password-less authentication between Ansible Controller and Agent nodes.  
-🔗 [Step Details](https://github.com/Hasin02/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step2.md#L1)
+🔗 [Step Details](https://github.com/Hasin02/advanced-ci-cd-pipeline/blob/master/DevOps-Project-06/Steps/step2.md#L1)
 
 </details>
 
