@@ -136,17 +136,3 @@ This project is maintained by **[Hasin](https://github.com/Hasin02)** 🚀
 - 🐙 **GitHub**: [@Hasin02](https://github.com/Hasin02)  
 
 ---
-
-## ⭐ Support the Project
-
-If you found this helpful:
-
-- ⭐ Star this repo  
-- 🔁 Share it with your peers  
-- ✅ Follow for more DevOps content  
-
----
-
-## 📢 Stay Updated
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
